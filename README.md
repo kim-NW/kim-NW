@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=AWS&logoColor=black">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
 </p>
